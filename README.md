@@ -1,5 +1,5 @@
 # Stock Price Prediction using LSTM
-<img src="https://th.bing.com/th/id/OIG.LQckMHChShh4UAUG5HA8?pid=ImgGn" alt="Netflix" width="1000" height="600">
+<img src="https://th.bing.com/th/id/OIG.LQckMHChShh4UAUG5HA8?pid=ImgGn" alt="Netflix" width="2000" height="800">
 
 ## Table of Contents
 - [Introduction](#introduction)
