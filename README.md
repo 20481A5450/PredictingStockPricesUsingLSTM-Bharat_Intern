@@ -1,6 +1,13 @@
 # Stock Price Prediction using LSTM
 <img src="https://th.bing.com/th/id/OIG.LQckMHChShh4UAUG5HA8?pid=ImgGn" alt="Netflix" width="2000" height="600">
+## Author
 
+- **Author:** Shaik Zohaib
+- **Domain:** Data Science
+
+## Aim
+
+The aim of this task is to build a model that predicts the stock prices using LSTM.
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
