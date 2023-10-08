@@ -1,5 +1,5 @@
 # Stock Price Prediction using LSTM
-![Netflix](https://th.bing.com/th/id/OIG.LQckMHChShh4UAUG5HA8?pid=ImgGn)
+![Netflix](https://th.bing.com/th/id/OIG.LQckMHChShh4UAUG5HA8?pid=ImgGn= 300x)
 
 ## Table of Contents
 - [Introduction](#introduction)
