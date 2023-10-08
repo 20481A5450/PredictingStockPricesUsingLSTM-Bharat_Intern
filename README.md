@@ -1,6 +1,5 @@
 # Stock Price Prediction using LSTM
 
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
@@ -45,18 +44,18 @@ pip install -r requirements.txt
 - Preprocess your stock price data and save it in a CSV file.
 - Replace the `"netflix.csv"` file with your dataset.
 - Modify hyperparameters and model architecture as needed.
-- Run the Jupyter Notebook (`stock_prediction.ipynb`) for step-by-step execution.
+- Run the Jupyter Notebook (`main.ipynb`) for step-by-step execution.
 
 ## Data
 
 - The project uses historical stock price data.
-- You can find sample data in the `data/` directory.
+- You can find sample data in the `netflix` directory.
 - Ensure your dataset includes date and closing price columns.
 
 ## Model
 
-- The LSTM-based model is defined in the `Model` class.
-- Modify the model architecture and hyperparameters in the Jupyter Notebook.
+- The LSTM-based model is defined in the file.
+- Modify the model architecture and hyperparameters in the Jupyter Notebook if needed.
 
 ## Training
 
@@ -65,6 +64,7 @@ pip install -r requirements.txt
 
 ## Testing
 
+- if you require
 - Use the `test_model_with_input` function to test the model with sample input data.
 - Replace `sample_input` with your own data for testing.
 
