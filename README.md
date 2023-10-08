@@ -1,5 +1,5 @@
 # Stock Price Prediction using LSTM
-![Titanic](https://wallpaper.dog/large/20354882.jpg)
+![Titanic]()
 
 ## Table of Contents
 - [Introduction](#introduction)
