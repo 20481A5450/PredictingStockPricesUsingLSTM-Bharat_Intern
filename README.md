@@ -31,8 +31,8 @@ This project utilizes Long Short-Term Memory (LSTM) neural networks to predict s
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/stock-price-prediction.git
-cd stock-price-prediction
+git clone https://github.com/20481A5450/PredictingStockPricesUsingLSTM-Bharat_Intern.git
+cd PredictingStockPricesUsingLSTM-Bharat_Intern
 ```
 
 2. Install the required Python packages:
@@ -81,8 +81,4 @@ Contributions are welcome! If you'd like to improve this project or report issue
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-Remember to replace placeholders like `"your-username"` with your GitHub username, add images or screenshots that illustrate your project, and customize the content to match your specific project details and requirements.
-
-A well-structured README like this one not only provides information about your project but also makes it more appealing to potential users and contributors.
