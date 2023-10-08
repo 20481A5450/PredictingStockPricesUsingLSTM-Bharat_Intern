@@ -1,5 +1,5 @@
 # Stock Price Prediction using LSTM
-![Titanic]()
+![Netflix](https://th.bing.com/th/id/OIG.LQckMHChShh4UAUG5HA8?pid=ImgGn)
 
 ## Table of Contents
 - [Introduction](#introduction)
