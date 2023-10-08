@@ -1,6 +1,5 @@
 # Stock Price Prediction using LSTM
 
-![Stock Price Prediction]([stock_prediction_image.png](https://th.bing.com/th/id/OIG..KR2snENDCwyXlwB6fZq?pid=ImgGn)) <!-- Replace with an image illustrating your project -->
 
 ## Table of Contents
 - [Introduction](#introduction)
